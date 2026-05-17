@@ -21,13 +21,13 @@ Tenho grande interesse pela área de tecnologia e utilizo meu GitHub para pratic
             src="https://custom-icon-badges.demolab.com/github/followers/TiagoTSR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/tiago-silva-rufiniano-8874b8206">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
-        />
-    </a>
+   <a href="https://www.linkedin.com/in/tiago-silva-rufiniano-8874b8206">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
+    />
+</a>
 </p>
 
 ---
