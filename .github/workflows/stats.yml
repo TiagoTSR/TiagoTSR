@@ -1,0 +1,41 @@
+name: GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: TiagoTSR
+          actions_token: ${{ secrets.GH_TOKEN }}
+          output_filename: github-stats.svg
+          output_type: svg
+          theme: tokyonight
+          show_icons: true
+          include_all_commits: true
+          locale: pt-br
+
+      - name: Top langs card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: TiagoTSR
+          actions_token: ${{ secrets.GH_TOKEN }}
+          output_filename: top-langs.svg
+          output_type: svg
+          theme: tokyonight
+          card_type: top_langs
+          layout: compact
+          langs_count: 9
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cards
+          path: "*.svg"
