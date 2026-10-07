@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de TIAGO SILVA RUFINIANO, Rank: B-</title>
-        <desc id="descId">Total de estrelas: 4, Total de Commits  : 1226, Total de PRs: 20, Total de Issues: 6, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 4, Total de Commits  : 1234, Total de PRs: 20, Total de Issues: 6, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 187.59086056849563;
+        stroke-dashoffset: 187.49183719467038;
       }
     }
   
