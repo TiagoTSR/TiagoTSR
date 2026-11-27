@@ -54,6 +54,15 @@ Tenho grande interesse pela área de tecnologia e utilizo meu GitHub para pratic
 
 <img 
     align="left" 
+    alt="Rust"
+    title="Rust" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/rust/000000" 
+/>
+
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
